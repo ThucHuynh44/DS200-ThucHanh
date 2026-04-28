@@ -1,0 +1,29 @@
+1010 | Lawrence of Arabia (1962) | Age Group: 45-49 | Average Rating: 4.00 | Total Ratings: 1
+1010 | Lawrence of Arabia (1962) | Age Group: 50-55 | Average Rating: 3.00 | Total Ratings: 1
+1010 | Lawrence of Arabia (1962) | Age Group: Unknown | Average Rating: 3.44 | Total Ratings: 16
+1012 | Psycho (1960) | Age Group: Unknown | Average Rating: 4.00 | Total Ratings: 2
+1013 | The Godfather: Part II (1974) | Age Group: Unknown | Average Rating: 4.00 | Total Ratings: 17
+1015 | Sunset Boulevard (1950) | Age Group: 50-55 | Average Rating: 4.50 | Total Ratings: 1
+1015 | Sunset Boulevard (1950) | Age Group: Unknown | Average Rating: 4.33 | Total Ratings: 6
+1020 | E.T. the Extra-Terrestrial (1982) | Age Group: Unknown | Average Rating: 3.67 | Total Ratings: 18
+1025 | The Terminator (1984) | Age Group: 50-55 | Average Rating: 4.00 | Total Ratings: 1
+1025 | The Terminator (1984) | Age Group: Unknown | Average Rating: 4.06 | Total Ratings: 17
+1028 | Fight Club (1999) | Age Group: Unknown | Average Rating: 3.50 | Total Ratings: 7
+1030 | The Silence of the Lambs (1991) | Age Group: 50-55 | Average Rating: 4.00 | Total Ratings: 1
+1030 | The Silence of the Lambs (1991) | Age Group: Unknown | Average Rating: 3.00 | Total Ratings: 6
+1037 | The Lord of the Rings: The Fellowship of the Ring (2001) | Age Group: 45-49 | Average Rating: 4.00 | Total Ratings: 1
+1037 | The Lord of the Rings: The Fellowship of the Ring (2001) | Age Group: 50-55 | Average Rating: 4.25 | Total Ratings: 2
+1037 | The Lord of the Rings: The Fellowship of the Ring (2001) | Age Group: Unknown | Average Rating: 3.83 | Total Ratings: 15
+1039 | The Lord of the Rings: The Return of the King (2003) | Age Group: 45-49 | Average Rating: 4.50 | Total Ratings: 1
+1039 | The Lord of the Rings: The Return of the King (2003) | Age Group: 50-55 | Average Rating: 3.50 | Total Ratings: 1
+1039 | The Lord of the Rings: The Return of the King (2003) | Age Group: Unknown | Average Rating: 3.78 | Total Ratings: 9
+1040 | Gladiator (2000) | Age Group: 35-44 | Average Rating: 3.50 | Total Ratings: 1
+1040 | Gladiator (2000) | Age Group: 45-49 | Average Rating: 4.00 | Total Ratings: 2
+1040 | Gladiator (2000) | Age Group: 50-55 | Average Rating: 3.50 | Total Ratings: 1
+1040 | Gladiator (2000) | Age Group: Unknown | Average Rating: 3.57 | Total Ratings: 14
+1043 | No Country for Old Men (2007) | Age Group: 35-44 | Average Rating: 4.00 | Total Ratings: 1
+1043 | No Country for Old Men (2007) | Age Group: 50-55 | Average Rating: 4.50 | Total Ratings: 1
+1043 | No Country for Old Men (2007) | Age Group: Unknown | Average Rating: 3.84 | Total Ratings: 16
+1047 | The Social Network (2010) | Age Group: 25-34 | Average Rating: 4.00 | Total Ratings: 1
+1047 | The Social Network (2010) | Age Group: Unknown | Average Rating: 3.83 | Total Ratings: 6
+1050 | Mad Max: Fury Road (2015) | Age Group: Unknown | Average Rating: 3.47 | Total Ratings: 18

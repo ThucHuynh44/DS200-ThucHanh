@@ -1,0 +1,14 @@
+1010 | Lawrence of Arabia (1962) | Average Rating: 3.44 | Total Ratings: 18
+1012 | Psycho (1960) | Average Rating: 4.00 | Total Ratings: 2
+1013 | The Godfather: Part II (1974) | Average Rating: 4.00 | Total Ratings: 17
+1015 | Sunset Boulevard (1950) | Average Rating: 4.36 | Total Ratings: 7
+1020 | E.T. the Extra-Terrestrial (1982) | Average Rating: 3.67 | Total Ratings: 18
+1025 | The Terminator (1984) | Average Rating: 4.06 | Total Ratings: 18
+1028 | Fight Club (1999) | Average Rating: 3.50 | Total Ratings: 7
+1030 | The Silence of the Lambs (1991) | Average Rating: 3.14 | Total Ratings: 7
+1037 | The Lord of the Rings: The Fellowship of the Ring (2001) | Average Rating: 3.89 | Total Ratings: 18
+1039 | The Lord of the Rings: The Return of the King (2003) | Average Rating: 3.82 | Total Ratings: 11
+1040 | Gladiator (2000) | Average Rating: 3.61 | Total Ratings: 18
+1043 | No Country for Old Men (2007) | Average Rating: 3.89 | Total Ratings: 18
+1047 | The Social Network (2010) | Average Rating: 3.86 | Total Ratings: 7
+1050 | Mad Max: Fury Road (2015) | Average Rating: 3.47 | Total Ratings: 18

@@ -1,0 +1,12 @@
+Action | Average Rating: 3.71 | Total Ratings: 54
+Adventure | Average Rating: 3.63 | Total Ratings: 83
+Biography | Average Rating: 3.56 | Total Ratings: 25
+Crime | Average Rating: 3.81 | Total Ratings: 42
+Drama | Average Rating: 3.76 | Total Ratings: 128
+Family | Average Rating: 3.67 | Total Ratings: 18
+Fantasy | Average Rating: 3.86 | Total Ratings: 29
+Film-Noir | Average Rating: 4.36 | Total Ratings: 7
+Horror | Average Rating: 4.00 | Total Ratings: 2
+Mystery | Average Rating: 4.00 | Total Ratings: 2
+Sci-Fi | Average Rating: 3.73 | Total Ratings: 54
+Thriller | Average Rating: 3.70 | Total Ratings: 27
