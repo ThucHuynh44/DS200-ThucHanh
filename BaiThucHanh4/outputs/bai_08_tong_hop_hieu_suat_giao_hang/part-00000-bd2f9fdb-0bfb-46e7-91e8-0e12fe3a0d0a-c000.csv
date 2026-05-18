@@ -1,0 +1,3 @@
+Ten_Bai,Delivery_Performance,Number_Of_Order_Items,Average_Delay_Days,Min_Delay_Days,Max_Delay_Days
+Bài 8 - Tổng hợp hiệu suất giao hàng đúng hạn hoặc trễ,Late,10372,3.12,0.01,117.76
+Bài 8 - Tổng hợp hiệu suất giao hàng đúng hạn hoặc trễ,On time or early,101084,-4.0,-1055.24,0.0
