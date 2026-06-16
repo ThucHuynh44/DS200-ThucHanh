@@ -4,3 +4,6 @@ hadoop/
 *.mp4
 latest_processed.jpg
 temp_detections_export.json
+results/annotated_frames/
+__pycache__/
+*.pyc

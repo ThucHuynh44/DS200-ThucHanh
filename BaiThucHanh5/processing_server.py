@@ -8,16 +8,26 @@ import numpy as np
 
 # Monkey-patch selectors to fix Python 3.12/3.13 bug with kafka-python on Windows
 if sys.platform == 'win32':
-    import selectors
-    orig_unregister = selectors.BaseSelector.unregister
-    def patched_unregister(self, fileobj):
-        try:
-            return orig_unregister(self, fileobj)
-        except ValueError as e:
-            if "Invalid file descriptor" in str(e):
+    import selectors as _selectors
+
+    # Wrap the entire SelectSelector class to suppress all socket-cleanup errors
+    _OriginalSelectSelector = _selectors.SelectSelector
+
+    class _SafeSelectSelector(_OriginalSelectSelector):
+        def unregister(self, fileobj):
+            try:
+                return super().unregister(fileobj)
+            except Exception:
                 return None
-            raise
-    selectors.BaseSelector.unregister = patched_unregister
+
+        def select(self, timeout=None):
+            try:
+                return super().select(timeout)
+            except Exception:
+                return []
+
+    _selectors.SelectSelector = _SafeSelectSelector
+    _selectors.DefaultSelector = _SafeSelectSelector
 
 from kafka import KafkaConsumer, KafkaProducer
 

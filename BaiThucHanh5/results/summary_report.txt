@@ -1,0 +1,35 @@
+============================================================
+  BÁO CÁO KẾT QUẢ - HỆ THỐNG ĐẾM NGƯỜI TỪ CAMERA
+============================================================
+  Thời gian tạo báo cáo : 2026-06-16 18:09:10
+
+--- THỐNG KÊ TỔNG QUAN ---
+  Tổng số frame xử lý   : 1,935
+  Tổng lượt phát hiện   : 1,361
+  Tỉ lệ frame có người  : 40.9%
+
+--- SỐ LƯỢNG NGƯỜI (PER FRAME) ---
+  Trung bình            : 0.70 người/frame
+  Cao nhất (peak)       : 4 người
+  Thấp nhất             : 0 người
+  Frame đông nhất       : #372 lúc 2026-06-16 18:04:33
+
+--- HIỆU NĂNG XỬ LÝ ---
+  Latency trung bình    : 58.0 ms
+  Latency cao nhất      : 435.7 ms
+  FPS tương đương       : ~17.2 FPS
+
+--- PHÂN PHỐI SỐ NGƯỜI ---
+  0 người :  1143 frames ( 59.1%) #############################
+  1 người :   397 frames ( 20.5%) ##########
+  2 người :   236 frames ( 12.2%) ######
+  3 người :   144 frames (  7.4%) ###
+  4 người :    15 frames (  0.8%) 
+
+--- FILE KẾT QUẢ ---
+  results/detection_log.csv       - Log chi tiết từng frame
+  spark_outputs/summary_stats/    - Thống kê tổng hợp (Spark)
+  spark_outputs/rolling_averages/ - Rolling average (Spark)
+  spark_outputs/peak_frames/      - Các frame đông người (Spark)
+
+============================================================
