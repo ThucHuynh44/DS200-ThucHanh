@@ -1,0 +1,12 @@
+# Core dependencies
+kafka-python-ng
+opencv-python
+ultralytics
+pymongo
+
+# Dashboard dependencies
+streamlit
+pandas
+
+# Analytics dependencies
+pyspark==3.5.4

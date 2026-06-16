@@ -1,0 +1,6 @@
+venv/
+hadoop/
+*.pt
+*.mp4
+latest_processed.jpg
+temp_detections_export.json
